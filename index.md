@@ -3,3 +3,8 @@
 ### Heading 3
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+function calculateNumbers(one, two) {
+ return one + two;
+}
+```
