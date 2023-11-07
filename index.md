@@ -8,3 +8,7 @@ function calculateNumbers(one, two) {
  return one + two;
 }
 ```
+
+- [x] Learn GitHub
+- [ ] become intermedite
+- [ ] become master
